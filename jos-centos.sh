@@ -10,4 +10,10 @@ sudo top -y
 
 sudo lsblk - y 
 
-git init -y 
+git init 
+
+git remote 
+
+git status 
+
+ping amazingdevops.com 
