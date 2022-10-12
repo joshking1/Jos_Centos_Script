@@ -4,6 +4,11 @@ sudo yum install git -y
 sudo yum install wget -y 
 sudo yum install net-tools -y 
 
+sudo yum install docker -y 
+
+sudo useradd Rose 
+
+
 sudo nproc -y 
 
 sudo top -y 
