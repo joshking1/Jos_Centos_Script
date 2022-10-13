@@ -10,6 +10,8 @@ sudo useradd Rose
 
 sudo useradd Caren
 
+sudo useradd Ronnie
+
 sudo useradd David 
 
 sudo yum install docker-compose -y 
