@@ -8,6 +8,8 @@ sudo yum install docker -y
 
 sudo useradd Rose 
 
+sudo useradd David 
+
 sudo yum install docker-compose -y 
 
 sudo yum install 
