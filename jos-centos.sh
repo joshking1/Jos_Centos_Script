@@ -34,6 +34,8 @@ sudo useradd rose
 
 sudo useradd kenneth
 
+sudo groupadd uganda-devops
+
 sudo yum install docker-compose -y 
 
 sudo yum install 
