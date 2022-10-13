@@ -14,6 +14,12 @@ sudo useradd Ronnie
 
 sudo useradd David 
 
+sudo useradd mary 
+
+sudo useradd ken 
+
+sudo useradd jane
+
 sudo groupadd kenya-devops
 
 sudo groupadd uganda-devops 
