@@ -59,3 +59,9 @@ git remote
 git status 
 
 ping amazingdevops.com 
+
+git pull 
+
+git rebase 
+
+git merge 
