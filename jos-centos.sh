@@ -8,6 +8,10 @@ sudo yum install docker -y
 
 sudo useradd Rose
 
+sudo groupadd kenya-devops-1
+
+sudo groupadd uganda-devops-1
+
 sudo useradd Caren
 
 sudo useradd Ronnie
