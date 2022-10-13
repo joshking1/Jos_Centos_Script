@@ -34,10 +34,6 @@ sudo useradd rose
 
 sudo useradd kenneth
 
-sudo groupadd kenya-devops-1
-
-sudo groupadd uganda-devops-1
-
 sudo yum install docker-compose -y 
 
 sudo yum install 
@@ -65,3 +61,9 @@ git remote
 git status 
 
 ping amazingdevops.com 
+
+git pull 
+
+git rebase 
+
+git merge
