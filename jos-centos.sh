@@ -24,13 +24,15 @@ sudo useradd ken
 
 sudo useradd jane
 
+
+
 sudo useradd rose 
 
 sudo useradd kenneth
 
-sudo groupadd kenya-devops
+sudo groupadd kenya-devops-1
 
-sudo groupadd uganda-devops 
+sudo groupadd uganda-devops-1
 
 sudo yum install docker-compose -y 
 
