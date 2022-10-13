@@ -8,7 +8,9 @@ sudo yum install docker -y
 
 sudo useradd Rose
 
-# sudo useradd David 
+sudo useradd Caren
+
+sudo useradd David 
 
 sudo yum install docker-compose -y 
 
@@ -23,7 +25,6 @@ sudo ./aws/install
 ./aws/install -i /usr/local/aws-cli -b /usr/local/bin
 
 aws --version
-
 
 sudo nproc -y 
 
