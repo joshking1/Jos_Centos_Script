@@ -12,6 +12,10 @@ sudo useradd Caren
 
 sudo useradd Ronnie
 
+sudo useradd rose 
+
+sudo useradd kenneth
+
 sudo useradd David 
 
 sudo useradd mary 
