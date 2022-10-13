@@ -16,6 +16,8 @@ sudo useradd David
 
 sudo groupadd kenya-devops
 
+sudo groupadd uganda-devops
+
 sudo yum install docker-compose -y 
 
 sudo yum install 
