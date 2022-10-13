@@ -20,6 +20,10 @@ sudo useradd ken
 
 sudo useradd jane
 
+sudo useradd rose 
+
+sudo useradd kenneth
+
 sudo groupadd kenya-devops
 
 sudo groupadd uganda-devops 
