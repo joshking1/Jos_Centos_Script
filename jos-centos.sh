@@ -6,7 +6,9 @@ sudo yum install net-tools -y
 
 sudo yum install docker -y 
 
-sudo useradd Rose 
+sudo useradd Rose
+
+sudo useradd Caren
 
 sudo useradd David 
 
