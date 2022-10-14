@@ -1,5 +1,6 @@
 #!/bin/bash  
 sudo yum update -y 
+sudo yum install update -y
 sudo yum install git -y 
 sudo yum install wget -y 
 sudo yum install net-tools -y 
