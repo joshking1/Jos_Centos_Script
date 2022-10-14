@@ -32,6 +32,8 @@ sudo useradd AmeritasBest
 
 sudo useradd jane
 
+sudo useradd kettle
+
 sudo useradd rose 
 
 sudo useradd apollo
