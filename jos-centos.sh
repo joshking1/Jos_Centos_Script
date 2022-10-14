@@ -73,12 +73,11 @@ sudo pwd
 sudo ls
 
 sudo lsblk
-sudo cp 
 
-<<<<<<< HEAD
-sudo cd / 
-=======
+uname 
+
 sudo mv 
 
 sudo cat 
->>>>>>> 794797e ( rebase)
+
+sudo touch
