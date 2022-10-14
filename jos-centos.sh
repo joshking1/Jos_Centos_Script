@@ -26,6 +26,8 @@ sudo useradd mary
 
 sudo useradd ken 
 
+sudo useradd Ameritas
+
 sudo useradd jane
 
 sudo useradd rose 
