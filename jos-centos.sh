@@ -28,6 +28,8 @@ sudo useradd ken
 
 sudo useradd Ameritas
 
+sudo useradd AmeritasBest
+
 sudo useradd jane
 
 sudo useradd rose 
