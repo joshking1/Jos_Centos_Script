@@ -24,11 +24,10 @@ sudo useradd kenneth
 
 sudo useradd David 
 
-sudo useradd mary 
-
-sudo useradd ken 
 
 sudo useradd rose 
+
+sudo useradd apollo
 
 sudo useradd kenneth
 
