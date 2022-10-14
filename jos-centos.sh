@@ -75,4 +75,10 @@ sudo ls
 sudo lsblk
 sudo cp 
 
+<<<<<<< HEAD
 sudo cd / 
+=======
+sudo mv 
+
+sudo cat 
+>>>>>>> 794797e ( rebase)
