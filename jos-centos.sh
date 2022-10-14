@@ -73,3 +73,5 @@ sudo pwd
 sudo ls
 
 sudo lsblk
+
+sudo cat 
