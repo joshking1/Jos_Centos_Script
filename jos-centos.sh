@@ -28,7 +28,7 @@ sudo useradd ken
 
 sudo useradd Ameritas
 
-sudo useradd AmeritasBest
+sudo useradd Americans-Best-Buy
 
 sudo useradd jane
 
