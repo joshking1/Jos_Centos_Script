@@ -73,3 +73,6 @@ sudo pwd
 sudo ls
 
 sudo lsblk
+sudo cp 
+
+sudo cd / 
