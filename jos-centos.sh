@@ -77,3 +77,5 @@ sudo lsblk
 sudo mv 
 
 sudo cat 
+
+sudo touch
