@@ -28,9 +28,9 @@ sudo useradd ken
 
 sudo useradd jane
 
-
-
 sudo useradd rose 
+
+sudo useradd apollo
 
 sudo useradd kenneth
 
