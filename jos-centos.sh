@@ -8,6 +8,8 @@ sudo yum install docker -y
 
 sudo useradd Rose
 
+sudo useradd iphone
+
 sudo groupadd kenya-devops-1
 
 sudo groupadd uganda-devops-1
@@ -22,13 +24,6 @@ sudo useradd kenneth
 
 sudo useradd David 
 
-sudo useradd mary 
-
-sudo useradd ken 
-
-sudo useradd Ameritas
-
-sudo useradd jane
 
 sudo useradd rose 
 
