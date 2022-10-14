@@ -67,3 +67,9 @@ git pull
 git rebase 
 
 git merge 
+
+sudo pwd 
+
+sudo ls
+
+sudo lsblk
