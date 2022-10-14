@@ -74,6 +74,8 @@ sudo ls
 
 sudo lsblk
 
+uname 
+
 sudo mv 
 
 sudo cat 
