@@ -9,7 +9,7 @@ sudo yum install docker -y
 sudo useradd Rose
 
 sudo groupadd kenya-devops-1
-
+sudo groupadd kenya-devops
 sudo groupadd uganda-devops-1
 
 sudo useradd Caren
