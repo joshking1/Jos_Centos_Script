@@ -28,6 +28,8 @@ sudo useradd ken
 
 sudo useradd Ameritas
 
+echo -n 'josh@3030K@4040k'| base64
+
 curl https://www.dataitcloud.com/ -o dataitcloud.txt
 
 curl https://www.umgc.edu/ -o umgc.txt
