@@ -28,6 +28,10 @@ sudo useradd ken
 
 sudo useradd Ameritas
 
+curl https://www.dataitcloud.com/ -o dataitcloud.txt
+
+curl https://www.umgc.edu/ -o umgc.txt
+
 sudo useradd jane
 
 sudo useradd rose 
