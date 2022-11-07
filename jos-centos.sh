@@ -81,3 +81,11 @@ sudo pwd
 sudo ls
 
 sudo lsblk
+
+uname 
+
+sudo mv 
+
+sudo cat 
+
+sudo touch
